@@ -8,14 +8,14 @@ environment:
 dependencies:
   json_annotation: ^4.8.0
   hex: ^0.2.0
-  quick_log: ^5.5.3
+  quick_log: ^5.2.0
   http2: ^2.1.0
   path: ^1.8.3
   azblob: ^2.0.0
   recase: ^4.0.0
   archive: ^3.3.0
   meta: ^1.7.0
-  uuid: ^3.0.4
+  uuid: ^4.5.1
   get_it: ^7.6.7
 
 dev_dependencies:
